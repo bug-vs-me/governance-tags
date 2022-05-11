@@ -1,0 +1,10 @@
+[
+  {
+    "pollId": 2,
+    "tags": ["surplus", "oracle"]
+  },
+  {
+      "pollId": 3,
+      "tags": ["oracle", "oracle-feed"]
+  }
+]
