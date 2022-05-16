@@ -9,6 +9,8 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "fast-levenshtein": "^3.0.0",
+    "gray-matter": "^4.0.3",
     "node-xlsx": "^0.21.0"
   }
 }

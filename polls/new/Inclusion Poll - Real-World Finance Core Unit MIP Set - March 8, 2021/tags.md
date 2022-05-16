@@ -1,0 +1,8 @@
+
+---
+tags:
+  - mips
+- budget
+
+---
+        
